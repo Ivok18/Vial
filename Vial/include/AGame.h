@@ -3,9 +3,9 @@
 
 #include "MySettings.h"
 #include <box2d/b2_world.h>
-#include "../../build/Vial/ThePlayer.h"
-#include "../../build/Vial/TerrestrialEnemy.h"
-#include "../../build/Vial/FlyingEnemy.h"
+#include "ThePlayer.h"
+#include "TerrestrialEnemy.h"
+#include "FlyingEnemy.h"
 #include <SFML/Audio.hpp>
 
 
